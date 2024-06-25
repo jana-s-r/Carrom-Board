@@ -7,7 +7,7 @@ This project showcases a static representation of a Carrom-Board using HTML and 
 ## Features
 
 - Static Design: The Carrom-Board layout is created purely for display purposes.
-- Responsive Design: Ensures the board layout adjusts well on different screen sizes using CSS media queries.
+
 ## How to Use
 
 1. Clone the repository to your local machine.
