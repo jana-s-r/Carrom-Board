@@ -18,11 +18,15 @@ This project showcases a static representation of a Carrom-Board using HTML and 
 
 https://jana-s-r.github.io/Carrom-Board/
 
-## Preview
+
+## 🔗 YouTube
 
 Creating Carrom-Board Using HTML and CSS Only
 
-[![Chess-Board](https://img.youtube.com/vi/Ugd__-d1yZI/0.jpg)](https://www.youtube.com/watch?v=Ugd__-d1yZI)
+[Carrom-Board](https://www.youtube.com/watch?v=Ugd__-d1yZI)
+
+[![Chess-Board](https://img.youtube.com/vi/_2ULxHkSYjo/0.jpg)](https://www.youtube.com/watch?v=Ugd__-d1yZI)
+
 
 
 ## 🔗 Links
